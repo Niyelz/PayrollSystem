@@ -1,0 +1,4 @@
+PAYROLL_SYSTEM
+
+- Using C#, Html,CSS,JavaScript, Mysql
+- import payroll_system.db in database 
