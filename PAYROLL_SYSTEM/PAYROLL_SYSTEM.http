@@ -1,0 +1,6 @@
+@PAYROLL_SYSTEM_HostAddress = http://localhost:5291
+
+GET {{PAYROLL_SYSTEM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

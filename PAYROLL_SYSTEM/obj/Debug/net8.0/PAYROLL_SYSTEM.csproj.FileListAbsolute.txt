@@ -1,0 +1,8 @@
+C:\Users\Daniel\source\repos\PAYROLL_SYSTEM\PAYROLL_SYSTEM\obj\Debug\net8.0\PAYROLL_SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\PAYROLL_SYSTEM\PAYROLL_SYSTEM\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Daniel\source\repos\PAYROLL_SYSTEM\PAYROLL_SYSTEM\obj\Debug\net8.0\PAYROLL_SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\PAYROLL_SYSTEM\PAYROLL_SYSTEM\obj\Debug\net8.0\PAYROLL_SYSTEM.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\PAYROLL_SYSTEM\PAYROLL_SYSTEM\obj\Debug\net8.0\PAYROLL_SYSTEM.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\PAYROLL_SYSTEM\PAYROLL_SYSTEM\obj\Debug\net8.0\PAYROLL_SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\PAYROLL_SYSTEM\PAYROLL_SYSTEM\obj\Debug\net8.0\PAYROLL_SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daniel\source\repos\PAYROLL_SYSTEM\PAYROLL_SYSTEM\obj\Debug\net8.0\PAYROLL_SYSTEM.MvcApplicationPartsAssemblyInfo.cache
